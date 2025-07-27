@@ -1,6 +1,6 @@
 # FDA Complete Response Letters (CRL) – Structured Repository
 
-This repository contains a growing collection of **FDA Complete Response Letters (CRLs)**, converted from public domain PDF files into clean, searchable, and structured **Markdown files with YAML front matter**. The goal is to enable easier access, navigation, and large language model (LLM)-ready use of document set provided by the U.S. Food and Drug Administration.
+This repository contains a collection of **FDA Complete Response Letters (CRLs)**, converted from public domain PDF files into clean, searchable, and structured **Markdown files with YAML front matter**. The goal is to enable easier access, navigation, and large language model (LLM)-ready use of document set provided by the U.S. Food and Drug Administration.
 
 ---
 
@@ -60,7 +60,7 @@ You can:
 **Attribution Requested:**  
 If referencing this project, please attribute to:
 
-FDA CRL Markdown Repository, curated by [GMPKit](https://gmpkit.com)
+FDA CRL Markdown Repository, curated by [GMPKit](https://gmpkit.com) - gmpkit.com
 
 
 ---
